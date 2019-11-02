@@ -1,15 +1,30 @@
 <html>
 
-    <h1>Vince Sanouvong<h1>
+    <h1><span style="color:chartreuse">VINCE SANOUVONG</span></h1>
     <div>
-    
-    <p>I am Vince Sanouvong, I like to play golf.<p>
+    <br>
+    <br>
+    <p><span style="color:darkgreen">I am Vince Sanouvong. I like to play golf.</span>
     
     </div>
-    
-    <h2>Favorites<h2>
+
+    <br>
+    <br>
+    <span style="color:blueviolet">My favorite shoes:</span>
+    <p><span style="color:lightsalmon">
+        - ultra boost
+        -vapormax
+        -yeezees </span>
+
+        <br>
+        <br>
+    </p>
+    <h2>Favorites:</h2>
     <div>
-    <span style="color:red">I like pizza and fantasy football.</span>
+    <span style="color:blue">I like pizza and fantasy football.</span>
     </div>
+    <br>
+    <summary><span style="color:coral">This is Vince</span> </summary>
+
 
 </html>
